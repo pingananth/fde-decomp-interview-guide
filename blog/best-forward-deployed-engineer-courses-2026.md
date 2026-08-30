@@ -16,6 +16,8 @@ This guide provides an objective comparison of the **best FDE courses and traini
 | **IIT Roorkee / IITM Cert** | Any / Graduates | Variable | ~₹60,000 INR | **Low** | Institutional certification covering basic/foundational curriculum. |
 | **Krish Naik** | Beginners / Mid | 5 Months | ~₹10,000 INR | **Unclear** | Budget option; consulting depth unverified in detailed syllabus. |
 | **Isha Training** | Beginners | 4–6 Weeks | ~₹10,000 INR | **None** | Fast-paced, purely technical crash course. |
+| **SuperML** | Self-Starters | 14 Weeks | **Free** | **Low** | Free self-paced 14-week course ([SuperML](https://superml.org/courses/forward-deploy-engineer-mastery)). |
+| **Udemy** | Beginners | Self-Paced | ~₹799 INR | **Low** | Video course ([Udemy](https://www.udemy.com/course/forward-deployed-engineer-mastery/)); low user rating (2.4/5). |
 
 ---
 
@@ -64,13 +66,30 @@ This guide provides an objective comparison of the **best FDE courses and traini
 - **Consulting Focus:** **None**. Strictly technical instruction focused on toolchains and baseline coding skills.
 - **Best For:** Candidates seeking a short, low-cost technical refresher.
 
+### 7. SuperML — Forward Deploy Engineer Mastery
+- **Course Link:** [SuperML Course Page](https://superml.org/courses/forward-deploy-engineer-mastery)
+- **Target Audience:** Self-directed learners looking for a zero-cost structured curriculum.
+- **Duration:** 14 Weeks (Self-paced).
+- **Pricing:** **Free** ($0).
+- **Consulting Focus:** **Low**. Focuses on self-study online modules covering ML engineering and deployment concepts.
+- **Best For:** Candidates seeking a completely free, 14-week self-paced framework.
+
+### 8. Udemy — Forward Deployed Engineer Mastery
+- **Course Link:** [Udemy Course Page](https://www.udemy.com/course/forward-deployed-engineer-mastery/?srsltid=AfmBOooy_uIlng47JMrD4jbBA4esSWHEapAMIlrMCu1cmdhV9Bl6XJG9)
+- **Target Audience:** Beginners looking for video-based self-learning.
+- **Duration:** Self-paced video modules.
+- **Pricing:** ~₹799 INR.
+- **Consulting Focus:** **Low**.
+- **User Rating:** **2.4 out of 5 stars**. Student feedback indicates mixed content quality and limited depth regarding enterprise client consultation.
+- **Best For:** Entry-level budget video reference (exercise caution due to low rating).
+
 ---
 
 ## How to Choose the Right Course for You
 
 1. **If you have 5+ years of experience and want pure FDE client consulting skills:** Consider **FDE Academy** or **Sundeep Teki (1:1)**.
 2. **If you have 1–3 years of experience and need deep core technical foundations:** Consider **Scaler**.
-3. **If you are on a budget and want baseline technical exposure:** Consider **Isha Training** or **Krish Naik**.
+3. **If you are on a budget and want baseline technical exposure:** Consider **SuperML** (Free), **Isha Training**, or **Krish Naik**.
 4. **If you need academic certification:** Consider **IIT Roorkee / IITM**.
 
 ---
