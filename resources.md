@@ -6,7 +6,7 @@ A curated list of tools, platforms, communities, and repositories to help you pr
 
 ## Dedicated FDE Prep Tools & Platforms
 
-- **[Simul FDE](https://getsimul.com/)** — Interactive, self-paced interview simulator specifically built for problem decomposition and client-simulation rounds.
+- **[Simul FDE](https://getsimul.com/?utm_source=github&utm_medium=fde-guide&utm_campaign=fde-guide)** — Interactive, self-paced interview simulator specifically built for problem decomposition and client-simulation rounds.
 - **FDE Academy** — Cohort-based preparation program tailored for aspiring client engineers and FDE candidates.
 - **[Exponent](https://www.tryexponent.com/)** — General tech interview preparation platform featuring system design and select FDE-oriented content.
 - **[Best FDE Courses & Training Programs (2026 Comparison)](blog/best-forward-deployed-engineer-courses-2026.md)** — Detailed comparison of FDE Academy, Scaler, Sundeep Teki, IIT Roorkee, Krish Naik, and Isha.

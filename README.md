@@ -104,7 +104,7 @@ If you've interviewed at a specific company for an FDE-track role (e.g., Palanti
 
 ## Resources for Preparation
 
-- **[Simul FDE](https://getsimul.com/)** — Self-paced decomposition & client-simulation interview simulator
+- **[Simul FDE](https://getsimul.com/?utm_source=github&utm_medium=fde-guide&utm_campaign=fde-guide)** — Self-paced decomposition & client-simulation interview simulator
 - **[Best FDE Courses & Training Programs (2026 Comparison)](blog/best-forward-deployed-engineer-courses-2026.md)** — Comprehensive comparison of top FDE courses (FDE Academy, Scaler, Sundeep Teki, IIT Roorkee, Krish Naik, Isha)
 - **FDE Academy** — Cohort-based prep program
 - **Exponent** — General interview prep with some FDE content
@@ -139,4 +139,4 @@ Open to community contributions — see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 Licensed under the [MIT License](LICENSE).
 
-Built by **Ananth**, creator of [Simul FDE](https://getsimul.com/).
+Built by **Ananth**, creator of [Simul FDE](https://getsimul.com/?utm_source=github&utm_medium=fde-guide&utm_campaign=fde-guide).

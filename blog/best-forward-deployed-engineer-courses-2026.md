@@ -100,7 +100,7 @@ Completing a course or training program equips you with fundamental knowledge. H
 
 Regardless of which course or training program you choose, dedicated interview practice is essential to land the offer.
 
-👉 **Practice real-world decomposition and client scenarios on [Simul FDE Interview](https://getsimul.com/)** — the self-paced simulator built specifically for FDE interview loops.
+👉 **Practice real-world decomposition and client scenarios on [Simul FDE Interview](https://getsimul.com/?utm_source=github&utm_medium=fde-guide&utm_campaign=fde-guide)** — the self-paced simulator built specifically for FDE interview loops.
 
 ---
 
