@@ -105,6 +105,7 @@ If you've interviewed at a specific company for an FDE-track role (e.g., Palanti
 ## Resources for Preparation
 
 - **[Simul FDE](https://getsimul.com/?utm_source=github&utm_medium=fde-guide&utm_campaign=fde-guide)** — Self-paced decomposition & client-simulation interview simulator
+- **[FDE Switch Guide](https://eupraxic.com/guides/fde-switch-guide)** — Free guide by Nasser Ghanemzadeh (Eupraxic) on switching into forward deployed engineering, including why candidates fail the customer simulation stage
 - **[Best FDE Courses & Training Programs (2026 Comparison)](blog/best-forward-deployed-engineer-courses-2026.md)** — Comprehensive comparison of top FDE courses (FDE Academy, Scaler, Sundeep Teki, IIT Roorkee, Krish Naik, Isha)
 - **FDE Academy** — Cohort-based prep program
 - **Exponent** — General interview prep with some FDE content
